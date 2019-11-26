@@ -1,0 +1,6 @@
+#+TITLE: Ncurses Upwords Game
+
+Accepts the following flags:
+  -d  dictionary  File containing dictionary words separated by newlines
+                  (Default: dictionary.txt)
+  -h              Show this help message
